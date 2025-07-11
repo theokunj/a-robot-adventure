@@ -2,7 +2,7 @@ A Robot's Journey to Life
 
 This repository tracks my journey to become fluent in applied robotics, including:
 
-- Python programming for control and data logging
+- Python programming for control and data science
 - ROS2 system fundamentals
 - Control algorithms (PID, MPC)
 - Project design and documentation
