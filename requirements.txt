@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+pandas
+jupyter
+ipykernel
+notebook
+pytest
+
+# opencv-python         # For image processing / computer vision
+# pyserial              # For serial port communication (e.g., Arduino)
+# rospy                 # If using ROS 1
+# rospkg                # If using ROS tools in standalone scripts
+# sympy                 # Symbolic math (for control theory modeling)
+# control               # Python Control Systems Library
+# seaborn               # Advanced plotting aesthetics
+# scikit-learn          # ML algorithms, useful for modeling and calibration
