@@ -7,7 +7,7 @@ This repository tracks my journey to become fluent in applied robotics, includin
 - Control algorithms (PID, MPC)
 - Project design and documentation
 
- ###🧭 Roadmap
+ ### 🧭 Roadmap
 - ✅ Phase 1: Python Fluency (Weeks 1–2)
 - ⏳ Phase 2: ROS2 (Weeks 3–4)
 - 🔜 Phase 3: Controls (Weeks 5-6)
@@ -15,7 +15,7 @@ This repository tracks my journey to become fluent in applied robotics, includin
 Each subdirectory includes code, data, and notes.  
 Reflections are in `/journal`.
 
-##Python Basics
+## Python Basics
 - matrix_ops: for basic matrix op practice
 
 Maintained by [Kunjan Theo Joseph](my-website-link-here)
