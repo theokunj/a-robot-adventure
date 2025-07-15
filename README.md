@@ -15,6 +15,7 @@ This repository tracks my journey to become fluent in applied robotics, includin
 Each subdirectory includes code, data, and notes.  
 Reflections are in `/journal`.
 
-—
+##Python Basics
+- matrix_ops: for basic matrix op practice
 
 Maintained by [Kunjan Theo Joseph](my-website-link-here)
